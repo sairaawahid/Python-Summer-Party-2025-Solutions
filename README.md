@@ -1,7 +1,6 @@
 # Python Summer Party Notebooks
 
 ![Python](https://img.shields.io/badge/python-3.11-blue)
-![Last Commit](https://img.shields.io/github/last-commit/sairaawahid/Python-Summer-Party-2025-Solutions)
 ![Interview Master](https://img.shields.io/badge/InterviewMaster-Summer%20Python%20Party-2ea44f)
 ![DataCamp](https://img.shields.io/badge/DataCamp-Summer%20Python%20Party-2ea44f)
 
