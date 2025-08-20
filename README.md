@@ -1,5 +1,9 @@
 # Python Summer Party Notebooks
 
+![Python](https://img.shields.io/badge/python-3.11-blue)
+![Last Commit](https://img.shields.io/github/last-commit/sairaawahid/python-summer-party-solutions)
+![DataCamp](https://img.shields.io/badge/DataCamp-Summer%20Python%20Party-2ea44f)
+
 This repository contains my completed notebooks from Interview Master's Python Summer Party challenge. It's intended for recruiters, peers, and learners to review my approach to data analysis problems using pandas and numpy.
 
 ## How to use
