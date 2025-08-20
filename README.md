@@ -6,6 +6,10 @@
 
 This repository contains my completed notebooks from Interview Master's Python Summer Party challenge. It's intended for recruiters, peers, and learners to review my approach to data analysis problems using pandas and numpy.
 
+- **Daily problem-solving** using `pandas`, `numpy`, and Python standard libraries
+- Hands-on challenges reflecting data analyst tasks in different industries
+- Focus on **data quality**, **feature engineering**, and **business insight generation**
+
 ## How to use
 
 1. Create and activate a Python environment (venv or conda).
